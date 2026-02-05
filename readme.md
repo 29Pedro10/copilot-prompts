@@ -1,25 +1,3 @@
-## Feedback da Entrevista
-Pontos fortes:
-
-Experiência prática com dados (produção em pedreira).
-
-Base sólida em ferramentas tradicionais (Excel e Access).
-
-Clareza ao entender o papel de SQL, Python e Power BI em diferentes etapas da análise.
-
-Boa visão sobre qualidade dos dados e comunicação acessível.
-
-Perfil analítico evidente nas respostas.
-
-Oportunidades de desenvolvimento:
-
-Aprofundar o uso de Python para automação e análise estatística.
-
-Ganhar prática em SQL avançado (joins complexos, otimização de queries).
-
-Explorar Power BI em cenários mais sofisticados (modelagem de dados, DAX).
-
-Conclusão: Você demonstra um perfil muito alinhado com a vaga de Analista de Dados Junior. Tem experiência prática, clareza sobre ferramentas e foco em comunicação. O próximo passo é consolidar o aprendizado em SQL, Python e Power BI para se destacar ainda mais.
 
 
 
@@ -478,3 +456,27 @@ Escolher um curso principal (Alura ou Hashtag Treinamentos).
 Criar um calendário simples (Google Calendar ou Excel) para marcar os dias de estudo.
 
 Definir um projeto pessoal já no início (ex.: análise de produção da pedreira) para aplicar cada aprendizado.
+
+## Feedback da Entrevista
+#Pontos fortes:
+
+- Experiência prática com dados (produção em pedreira).
+
+- Base sólida em ferramentas tradicionais (Excel e Access).
+
+- Clareza ao entender o papel de SQL, Python e Power BI em diferentes etapas da análise.
+
+- Boa visão sobre qualidade dos dados e comunicação acessível.
+
+- Perfil analítico evidente nas respostas.
+
+- Oportunidades de desenvolvimento:
+
+- Aprofundar o uso de Python para automação e análise estatística.
+
+- Ganhar prática em SQL avançado (joins complexos, otimização de queries).
+
+- Explorar Power BI em cenários mais sofisticados (modelagem de dados, DAX).
+
+Conclusão: Você demonstra um perfil muito alinhado com a vaga de Analista de Dados Junior. Tem experiência prática, clareza sobre ferramentas e foco em comunicação. O próximo passo é consolidar o aprendizado em SQL, Python e Power BI para se destacar ainda mais.
+
