@@ -385,3 +385,73 @@ Módulo 4: Visualização com Matplotlib/Seaborn
 Módulo 5: SQL para análise de dados
 
 Módulo 6: Projeto final com dados reais
+
+Plano de Estudo – 1h por dia
+Mês 1 – Fundamentos e SQL
+Semana 1-2: Introdução à Análise de Dados
+
+Vídeos introdutórios sobre o papel do Analista de Dados.
+
+Canal recomendado: Hashtag Treinamentos (YouTube).
+
+Semana 3-4: SQL Básico
+
+Consultas simples (SELECT, WHERE, ORDER BY).
+
+Exercícios práticos com bancos de dados gratuitos.
+
+Curso sugerido: Formação MySQL da Alura 
+
+Mês 2 – Python para Dados
+Semana 5-6: Python Básico
+
+Estruturas de dados (listas, dicionários).
+
+Manipulação de arquivos CSV.
+
+Canal recomendado: Curso em Vídeo (YouTube).
+
+Semana 7-8: Python para Data Science
+
+Bibliotecas: Pandas e Matplotlib.
+
+Limpeza e visualização de dados.
+
+Curso sugerido: Python para Data Science da Alura 
+
+Mês 3 – Power BI e Projeto Final
+Semana 9-10: Power BI Básico
+
+Conexão com fontes de dados.
+
+Criação de dashboards simples.
+
+Curso gratuito: Mini-curso Power BI Impressionador (Hashtag Treinamentos) 
+
+Semana 11-12: Projeto Integrador
+
+Escolher um conjunto de dados (ex.: produção da pedreira).
+
+Usar SQL para organizar, Python para analisar e Power BI para apresentar.
+
+Publicar no GitHub como portfólio.
+
+🎯 Estratégia de Estudo
+1h por dia → 30 min de vídeo + 30 min de prática.
+
+Ferramentas gratuitas:
+
+Banco de dados MySQL/PostgreSQL.
+
+Jupyter Notebook (Python).
+
+Power BI Desktop.
+
+Portfólio: Documente cada exercício no GitHub para mostrar evolução.
+
+## 🚀 Próximos Passos
+Escolher um curso principal (Alura ou Hashtag Treinamentos).
+
+Criar um calendário simples (Google Calendar ou Excel) para marcar os dias de estudo.
+
+Definir um projeto pessoal já no início (ex.: análise de produção da pedreira) para aplicar cada aprendizado.
